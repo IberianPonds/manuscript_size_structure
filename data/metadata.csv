@@ -1,0 +1,9 @@
+﻿Name;Description
+site;site id. MR: Murcia, TL: Toledo, EV: Évora, PT: Porto, JC: Jaca, MD: Madrid
+year;sampling year
+mesocosm;mesocosm id
+taxon_code;specific codes for taxon identified
+logN;log total abundance (number of individuals/L)
+logM;log average body mass (µgC)
+phosphorus;Total Phosphorus (mg/L)
+mean_temp_12M;Mean water temperature (℃) (averaged for 12 months)
